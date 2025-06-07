@@ -2,7 +2,7 @@
 
 This project simulates the usage of a shared laundry room located.
 
-## 🧼 Project Objective
+##  Project Objective
 
 The main objective of this simulation is to analyze the efficiency, bottlenecks, and behavior of users in a shared laundry system. The model allows us to:
 - Identify waiting time hotspots
